@@ -23,7 +23,6 @@ On the side, I'm building a public portfolio around **quick commerce marketing a
 | Project | What it is |
 |---|---|
 | Project | What it is |
-|---|---|
 | 🛒 `quick-commerce-sql-analysis` | SQL analysis of Blinkit vs Zepto vs Swiggy Instamart → [🔗 View on GitHub](https://github.com/vanshika-nagvani/quick-commerce-sql-analysis) |
 | 📊 `qcommerce-india-dashboard` | Visual market dashboard → [🔗 View Live Dashboard](https://public.tableau.com/app/profile/vanshika.nagvani/viz/QuickCommerceIndiaMarketDashboard/Dashboard) |
 | 🤖 `campaign-roast-ai` | AI tool that critiques and rewrites brand campaigns |
