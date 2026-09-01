@@ -5,7 +5,7 @@ Marketing analyst in the making • Quick commerce obsessive • BBA graduate
 </p>
 
 <p align="center">
-📍 Jhansi → Delhi → Bangalore (soon) &nbsp;|&nbsp; 🎯 Targeting MNC marketing roles
+📍 Jhansi → Delhi → Bangalore (Open to roles) &nbsp;|&nbsp; 🎯 Targeting MNC marketing roles
 </p>
 
 ---
