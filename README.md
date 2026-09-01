@@ -42,7 +42,7 @@ On the side, I'm building a public portfolio around **quick commerce marketing a
 - 🔨 Building: Campaign Roaster AI (Claude API + Streamlit)
 - 📚 Learning: Python, Streamlit, AI tools
 - 💬 Ask me about: Quick commerce, consumer insights, marketing frameworks
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/vanshika-nagvani)
+- 📬 Reach me: [LinkedIn](https://linkedin.com/in/vanshika-nagvani) • +91-7307547568 • vanshika24nagvani@gmail.com
 
 ---
 
