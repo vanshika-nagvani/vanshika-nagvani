@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vanshika Nagvani 👋</h1>
+<h1 align="center">Hi, I'm Vanshika Nagvani </h1>
 
 <p align="center">
 Marketing analyst in the making • Quick commerce obsessive • BBA graduate
