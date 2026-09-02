@@ -5,7 +5,7 @@ Marketing analyst in the making • Quick commerce obsessive • BBA graduate
 </p>
 
 <p align="center">
-📍 India &nbsp;|&nbsp; 🎯 Open to MNC marketing roles &nbsp;|&nbsp; 🚀 Open to relocate
+📍 India &nbsp;|&nbsp; 🎯 Open to marketing roles &nbsp;|&nbsp; 🚀 Open to relocate
 </p>
 
 ---
